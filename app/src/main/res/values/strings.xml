@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CGPA Calculator</string>
+
+    <string name="header">Input Credit and GPA</string>
+    <string name="hint_1">Credit</string>
+    <string name="hint_2">GPA</string>
+    <string name="text_1">CGPA =</string>
+    <string name="text_2">0.00</string>
+    <string name="button_text">ADD</string>
+
+    <string name="about_text_1">
+        Md. Shahriar Rahman Shihab\nEmail: shihabcse1@gmail.com
+    </string>
+    <string name="about_text_2">
+        Studying in Computer Science and Engineering at Daffodil International University.
+    </string>
+</resources>
